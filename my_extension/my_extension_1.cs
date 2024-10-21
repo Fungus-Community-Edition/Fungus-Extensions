@@ -1,0 +1,4 @@
+namespace Fungus
+{
+  class SomeExtension {}
+}
